@@ -16,10 +16,10 @@
 ## 목차
 * [다운로드](#다운로드)
 * [파일 형식](#파일-형식)
-* [FB15k-Expantion v1.0](#FB15k-Expantion v1.0)
-* [WN18RR-Expantion v1.0](#WN18RR-Expantion v1.0)
-* [KBN-EN-Extention v1.0](#KBN-EN-Extention v1.0)
-* [KBN-KO-Extention v1.0](#KBN-KO-Extention v1.0)
+* FB15k-Expantion v1.0
+* WN18RR-Expantion v1.0
+* KBN-EN-Extention v1.0
+* KBN-KO-Extention v1.0
 
 
 ## 다운로드
