@@ -4,11 +4,11 @@
 
 사용된 알고리즘은 **BERT Encoder + TransE Scoring** 기반 KBP을 사용하였고, 확장된 데이터셋 목록은 아래와 같다. 
 
-###1. 해외 Wiki-KB Dataset 확장  
+1. 해외 Wiki-KB Dataset 확장  
 영어 데이터셋 `FB15k-Expantion v1.0`와 `WN18RR-Expantion v1.0`으로 구성되어 있다. \
 [WN18RR](https://arxiv.org/abs/1811.04441), [FB15k](https://www.microsoft.com/en-us/download/details.aspx?id=52312) 코퍼스에 대해 확장되었다.
 
-###2. 이전 Wiki-KB Dataset 확장  
+2. 이전 Wiki-KB Dataset 확장  
 영어 데이터셋 `KBNE-Expantion v1.0`와 한국어 데이터셋`KBNK-Expantion v1.0`으로 구성되어 있다. \
 [KBN-EN 1.0, KBN-KO 1.0](https://github.com/usgnob/KBN-Dataset) 코퍼스에 대해 확장되었다.
 
